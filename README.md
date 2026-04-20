@@ -17,6 +17,12 @@ Checks include:
 just runserver
 ```
 
+or
+
+```bash
+uv run manage.py runserver localhost:8080
+```
+
 The development server will run on port 8080
 
 ## How to shorten URLs
